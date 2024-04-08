@@ -12,3 +12,8 @@
 # solution for x
 #
 # test case: 5, 1, 11 should give x = 2
+data = input(x=2)
+data = input(a=8)
+data = input(b=3)
+data = input(c=19)
+print(ax + b = c)

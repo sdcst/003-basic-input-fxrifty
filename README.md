@@ -27,7 +27,6 @@ Casting is very important if you want to retrieve a number from input and use it
 ### 5 Tasks
 
 **Note: Today you will be using Github Desktop to clone the repository to your local computer, and then commit all of the files at once**
-
 ##### Task 1
 Ask the user for their name and their email address.
 Display the output back to the user in the following format:
